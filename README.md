@@ -32,9 +32,3 @@ You are expected to build views in BigQuery from the dimension and fact tables a
 13- Which sellers have the highest order volumes?  
 14- What is the average seller rating?  
 15- What is the average review score for products across categories?  
-- For any questions, don’t hesitate to use our slack channel to ask for help
-
-### Deliverables:
-- Architecture diagram (ERD)
-- Project documentation
-- Final presentation
