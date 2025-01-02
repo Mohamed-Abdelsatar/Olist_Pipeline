@@ -1,7 +1,7 @@
 # Data Engineering Project - Ready D25 &nbsp; &nbsp; &nbsp;<img align="center" width="50" alt="image" src="https://github.com/Ready-Talent/data-engineering-project-template/assets/70844012/4c10ad15-6b48-4ce3-9829-9e823191b410">
 
 ## Project Description 
-You work in a major consultancy firm, and you have been tasked to lead a new project. The Brazilian e-commerce company “Olist” has hired your consulting firm to produce some insights using its data. You will lead this project which means you have to plan what tools to use, models to build and approach to take.
+The Brazilian e-commerce company “Olist” has hired your consulting firm to produce some insights using its data. You will lead this project which means you have to plan what tools to use, models to build and approach to take.
 <br>
 <br>
 
@@ -32,37 +32,6 @@ You are expected to build views in BigQuery from the dimension and fact tables a
 13- Which sellers have the highest order volumes?  
 14- What is the average seller rating?  
 15- What is the average review score for products across categories?  
-
-<br>
-
-### Additional information:
-- You can retrieve the table order_payments by calling the API endpoint:
-
-  https://us-central1-ready-de-25.cloudfunctions.net/order_payments_table
-
-- You can retrieve the table - by calling the API endpoint:
-
-  https://us-central1-ready-de-25.cloudfunctions.net/sellers_table
-
-- You can find the raw data in the postgreDB with the following connection details:
-  -
-  -
-  -
-  -
-- Your code is expected to follow the clean coding guidelines discussed in previous sessions (folder naming and hierarchy, variable naming, no unused import etc.).
-
-- You are expected to follow Github best practices ( New branch with a clear and descriptive name, short and clear commit message and Good PR description)
-
-- Keep the commits and history in the project. don't push the whole code in one commit
-
-- Don't push your commits directly to main branch, Create a branch for the relevant changes/features then do a pull request from the feature branch into the main branch
-
-- You are expected to create an ERD for your models and a document explaining your approach to the project
-
-- Testing is done in your local Airflow, for the final version we’ll turn on the composer so you can experience the production release and code reviews.
-
-- For any questions, don’t hesitate to use our slack channel to ask for help
-
 - For any questions, don’t hesitate to use our slack channel to ask for help
 
 ### Deliverables:
