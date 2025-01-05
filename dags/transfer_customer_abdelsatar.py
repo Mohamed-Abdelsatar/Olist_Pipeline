@@ -9,8 +9,8 @@ BQ_PROJECT = 'ready-de-25'
 BQ_DATASET = 'olist_abdelsatar'
 PG_CONN_ID = 'postgres_conn'
 FOLDER_NAME = 'abdelsatar'
-TABLE_NAME = 'customers'
-
+TABLE_NAME = 'customers' 
+ 
 def create_table_execution_dag(TABLE_NAME):
     with DAG(
         dag_id="transfer_customer_abdelsatar",
