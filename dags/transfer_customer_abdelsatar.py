@@ -3,7 +3,7 @@ from airflow.providers.google.cloud.transfers.postgres_to_gcs import PostgresToG
 from airflow.providers.google.cloud.transfers.gcs_to_bigquery import GCSToBigQueryOperator
 from airflow.utils.dates import days_ago
 
-
+  
 GCS_BUCKET = 'ready-d25-postgres-to-gcs'
 BQ_PROJECT = 'ready-de-25'
 BQ_DATASET = 'olist_abdelsatar'
