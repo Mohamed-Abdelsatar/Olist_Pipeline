@@ -17,6 +17,8 @@ We will apply the necessary modeling techniques to transform the raw data in the
 <br>
 ## Database ER diagram
 
+<img src="Database ER diagram.png" alt="Alt text" width="100%"/>
+
 
 <br><br>
 ### 3- Reporting:
