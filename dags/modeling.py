@@ -1,5 +1,5 @@
 from airflow import DAG
-from airflow.providers.dbt.cloud.operators.dbt import DbtRunOperator
+#from airflow.providers.dbt.cloud.operators.dbt import DbtRunOperator
 from airflow.providers.dbt.cloud.operators.dbt import DbtCloudRunJobOperator
 from datetime import datetime
 
