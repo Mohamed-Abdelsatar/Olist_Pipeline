@@ -15,7 +15,10 @@ The data that you will work with is stored in multiple sources. First, some of t
 We will apply the necessary modeling techniques to transform the raw data in the landing tables to multiple dimension and fact tables and store them in BigQuery. 
 <br>
 <br>
+## Database ER diagram
 
+
+<br><br>
 ### 3- Reporting:
 We will build views in BigQuery from the dimension and fact tables and use them to build a dashboard on Looker Studio.
 <br><br>
@@ -27,6 +30,6 @@ Those view are answers the following questitions :
 - Which product categories generate the most revenue?  
 - What is the total number of orders placed each month (trend over time)?  
 - What is the distribution of payment methods used by customers?  
-<br><br>
 
+<br><br>
 ### Report Link : https://lookerstudio.google.com/s/sAGZyC6ljc8
