@@ -6,7 +6,7 @@ from datetime import datetime
 DBT_PROJECT_DIR = "/path/to/abdelsatar"
 
 with DAG(
-    dag_id="abdelsatar_modeling",
+    dag_id="abdelsatar_modeling_bash",
     start_date=datetime(2025, 1, 1),
     schedule_interval=None,
     catchup=False,
