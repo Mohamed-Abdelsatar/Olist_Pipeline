@@ -6,7 +6,10 @@ As a Data Engineer in a major consultancy firm, i have been tasked to lead a new
 The Brazilian e-commerce company “Olist” has hired our consulting firm to produce some insights using its data. 
 <br>
 <br>
-
+## Project Architecture 
+<img src="Untitled design.png" alt="Alt text" width="100%"/>
+<br>
+<br>
 ### 1- Transfers:
 The data that you will work with is stored in multiple sources. First, some of the tables are stored in a postgres database and some will be retrieved via an API. we will move this data from the different sources to BigQuery.<br>
 <br>
