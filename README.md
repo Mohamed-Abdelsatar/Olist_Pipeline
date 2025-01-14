@@ -1,4 +1,4 @@
-# Data Engineering Project - Ready D25 &nbsp; &nbsp; &nbsp;<img align="center" width="50" alt="image" src="https://github.com/Ready-Talent/data-engineering-project-template/assets/70844012/4c10ad15-6b48-4ce3-9829-9e823191b410">
+# Data Engineering Project
 
 As a Data Engineer in a major consultancy firm, i have been tasked to lead a new project.
 
